@@ -5,7 +5,7 @@ This is a solution to the [Personal finance app challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The challenge](#the-challenge) 
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
